@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "API.Controllers.UsersController",
+    "Method": "Exists",
+    "RelativePath": "api/users/{email}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "email",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

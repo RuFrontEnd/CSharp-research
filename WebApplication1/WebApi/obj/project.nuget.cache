@@ -1,20 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oo3SV/H0GPo=",
-  "success": false,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\repo\\WebApplication1\\WebApi\\WebApi.csproj",
+  "dgSpecHash": "5muoVz+//2Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Desktop\\CSharp-research\\WebApplication1\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [],
-  "logs": [
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Unable to find package Microsoft.AspNetCore.OpenApi. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
-      "projectPath": "C:\\Users\\User\\Desktop\\repo\\WebApplication1\\WebApi\\WebApi.csproj",
-      "filePath": "C:\\Users\\User\\Desktop\\repo\\WebApplication1\\WebApi\\WebApi.csproj",
-      "libraryId": "Microsoft.AspNetCore.OpenApi",
-      "targetGraphs": [
-        "net9.0"
-      ]
-    }
-  ]
+  "logs": []
 }
